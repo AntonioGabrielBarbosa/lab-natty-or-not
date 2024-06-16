@@ -20,23 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# C4-621 AC
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Imagem do AC do protagonista C4-621
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+COPILOT DESIGNER
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+pedi para ele criar uma imagem do AC do C4-621 do jogo
+armored core 6 em cor preta
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+imagem em png 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
+Achei muito legal
 
 ### Exemplos e Insigths
 
